@@ -21,6 +21,10 @@ Bienvenidos al README más cool de todos los tiempos. Aquí les presento nuestro
 - **Pandas** 🐼: Para manejar los datos como si fuéramos expertos (o eso queremos creer).
 - **Scikit-learn** 🧠: La navaja suiza del machine learning. ¡Vamos a ver qué podemos hacer con esto!
 - **Matplotlib** 📊: Para hacer gráficos tan bonitos que nuestra profe va a pensar que los robamos de internet.
+- **PyCaret** 🧙‍♂️: El mago que nos permitirá hacer modelos sin rompernos la cabeza (demasiado).
+- **Sweetviz** 🍬: Para generar reportes tan dulces y visuales que hasta nuestras abuelas los entenderían.
+- **H2O** 💧: Para sumergirnos en aguas profundas del automl y salir victoriosos (esperemos).
+
   
 ## 🤔 ¿Qué vamos a hacer?
 1. **Cargar los datos**: Parece fácil, pero esperen a que Julian intente hacerlo y las risas estarán garantizadas.

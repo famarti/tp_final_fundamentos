@@ -78,3 +78,6 @@
 2024-09-29 18:33:51,840 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
 2024-09-29 18:33:51,840 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2564046461471633
 2024-09-29 18:33:51,840 - INFO - Optimización bayesiana completada.
+2024-09-29 18:42:17,648 - INFO - Mejores parámetros encontrados: {'bagging_fraction': 0.9199511048448501, 'feature_fraction': 0.13734774116953644, 'max_depth': 18, 'min_child_weight': 20.80014805072387, 'min_split_gain': 0.017706088711668292, 'num_leaves': 90, 'objective': 'multiclass', 'num_class': 6, 'metric': 'multi_logloss'}
+2024-09-29 18:43:57,440 - INFO - Entrenamiento del modelo completado.
+2024-09-29 19:14:07,591 - INFO - Modelo guardado en 'models/lightgbm_model_4.pkl'.

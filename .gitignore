@@ -2,7 +2,14 @@ data
 myenv
 app.py
 myscript.py
-*.log
-*.txt
+
+# NO .log y .txt en el root del proyecto
+/*.log
+/*.txt
+
+# SI logs y .txt en la carpeta de logs.
+!logs/*.log
+!logs/*.txt
+
 *.pkl
 VERSION

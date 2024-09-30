@@ -1,0 +1,53 @@
+2024-09-23 19:06:33,794 - INFO - Cargando datos...
+2024-09-23 19:06:36,485 - INFO - División temporal de datos en entrenamiento (70%) y prueba (30%) completada.
+2024-09-23 19:06:40,471 - INFO - Iniciando optimización bayesiana...
+2024-09-23 19:06:40,474 - INFO - Probando parámetros: num_leaves=95.76004116072984, feature_fraction=0.6137564799390843, bagging_fraction=0.9838218063598364, max_depth=23.029697837833414
+2024-09-23 19:12:37,029 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 19:12:37,029 - INFO - Parámetros evaluados con AUC promedio: 0.7832896527919025
+2024-09-23 19:12:37,029 - INFO - Probando parámetros: num_leaves=94.30383774559513, feature_fraction=0.5328542571807742, bagging_fraction=0.8652301874068978, max_depth=18.92188140694405
+2024-09-23 19:18:23,313 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 19:18:23,313 - INFO - Parámetros evaluados con AUC promedio: 0.7814212292255976
+2024-09-23 19:18:23,313 - INFO - Probando parámetros: num_leaves=88.45192860379504, feature_fraction=0.5707849140373463, bagging_fraction=0.967335988216239, max_depth=19.369236512266877
+2024-09-23 19:24:00,176 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 19:24:00,176 - INFO - Parámetros evaluados con AUC promedio: 0.7809498945090769
+2024-09-23 19:24:00,176 - INFO - Probando parámetros: num_leaves=85.8495067738991, feature_fraction=0.6976218453656973, bagging_fraction=0.8114631970494413, max_depth=20.618504104474376
+2024-09-23 19:29:42,303 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 19:29:42,303 - INFO - Parámetros evaluados con AUC promedio: 0.7796030732264619
+2024-09-23 19:29:42,303 - INFO - Probando parámetros: num_leaves=83.03943051385122, feature_fraction=0.7009251887928997, bagging_fraction=0.8133598262182923, max_depth=17.51017219264525
+2024-09-23 19:35:25,402 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 19:35:25,402 - INFO - Parámetros evaluados con AUC promedio: 0.7792776545189575
+2024-09-23 19:35:25,465 - INFO - Probando parámetros: num_leaves=93.62521612408776, feature_fraction=0.6687426689888964, bagging_fraction=0.9738852829524445, max_depth=18.349266270220262
+2024-09-23 19:41:09,491 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 19:41:09,491 - INFO - Parámetros evaluados con AUC promedio: 0.7818105957548289
+2024-09-23 19:41:09,600 - INFO - Probando parámetros: num_leaves=100.0, feature_fraction=0.1, bagging_fraction=1.0, max_depth=25.0
+2024-09-23 19:46:02,069 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 19:46:02,069 - INFO - Parámetros evaluados con AUC promedio: 0.7290215577655486
+2024-09-23 19:46:02,247 - INFO - Probando parámetros: num_leaves=93.28106721568771, feature_fraction=0.6258506229932611, bagging_fraction=0.9279073501984784, max_depth=22.0778835379686
+2024-09-23 19:51:47,065 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 19:51:47,065 - INFO - Parámetros evaluados con AUC promedio: 0.7816874123755817
+2024-09-23 19:51:47,220 - INFO - Probando parámetros: num_leaves=91.455073649287, feature_fraction=0.9, bagging_fraction=1.0, max_depth=22.340468209448346
+2024-09-23 19:57:42,914 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 19:57:42,914 - INFO - Parámetros evaluados con AUC promedio: 0.7756152946115797
+2024-09-23 19:57:43,052 - INFO - Probando parámetros: num_leaves=88.91624814918252, feature_fraction=0.9, bagging_fraction=0.8, max_depth=17.0
+2024-09-23 20:03:41,455 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 20:03:41,455 - INFO - Parámetros evaluados con AUC promedio: 0.7737981933058579
+2024-09-23 20:03:41,625 - INFO - Probando parámetros: num_leaves=97.81064185198159, feature_fraction=0.9, bagging_fraction=1.0, max_depth=19.486867559913815
+2024-09-23 20:09:41,727 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 20:09:41,727 - INFO - Parámetros evaluados con AUC promedio: 0.7756668602676393
+2024-09-23 20:09:41,902 - INFO - Probando parámetros: num_leaves=86.69068093041705, feature_fraction=0.1, bagging_fraction=1.0, max_depth=23.768964240327858
+2024-09-23 20:14:26,628 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 20:14:26,628 - INFO - Parámetros evaluados con AUC promedio: 0.7308894154033705
+2024-09-23 20:14:26,797 - INFO - Probando parámetros: num_leaves=87.62690396110796, feature_fraction=0.9, bagging_fraction=0.8, max_depth=17.0
+2024-09-23 20:18:33,827 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 20:18:33,827 - INFO - Parámetros evaluados con AUC promedio: 0.7717125156469956
+2024-09-23 20:18:34,013 - INFO - Probando parámetros: num_leaves=81.2298197137319, feature_fraction=0.9, bagging_fraction=0.8073654842835244, max_depth=18.02822524355459
+2024-09-23 20:22:27,991 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 20:22:27,991 - INFO - Parámetros evaluados con AUC promedio: 0.771434807919756
+2024-09-23 20:22:28,148 - INFO - Probando parámetros: num_leaves=96.23567959200707, feature_fraction=0.9, bagging_fraction=0.8, max_depth=23.538215320359345
+2024-09-23 20:26:42,177 - INFO - Resultados de cv: dict_keys(['valid custom_auc-mean', 'valid custom_auc-stdv'])
+2024-09-23 20:26:42,177 - INFO - Parámetros evaluados con AUC promedio: 0.7722725299292826
+2024-09-23 20:26:42,177 - INFO - Optimización bayesiana completada.
+2024-09-23 20:27:48,425 - INFO - Mejores parámetros encontrados: {'bagging_fraction': 0.9838218063598364, 'feature_fraction': 0.6137564799390843, 'max_depth': 23, 'min_child_weight': 12.089718521541025, 'min_split_gain': 0.009644635250970406, 'num_leaves': 96, 'objective': 'binary', 'metric': 'auc'}
+2024-09-23 20:49:46,984 - INFO - Mejores parámetros encontrados: {'bagging_fraction': 0.9838218063598364, 'feature_fraction': 0.6137564799390843, 'max_depth': 23, 'min_child_weight': 12.089718521541025, 'min_split_gain': 0.009644635250970406, 'num_leaves': 96, 'objective': 'multiclass', 'num_class': 6, 'metric': 'auc'}
+2024-09-23 20:52:48,470 - INFO - Entrenamiento del modelo completado.
+2024-09-23 20:57:40,213 - INFO - Modelo guardado en 'lightgbm_model.pkl'.

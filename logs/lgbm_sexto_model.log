@@ -50,3 +50,4 @@
 2024-10-04 12:40:00,861 - INFO - Mejores parámetros encontrados: {'bagging_fraction': 0.9089493179526446, 'feature_fraction': 0.8445059004982389, 'max_depth': 17, 'min_child_weight': 11.728001864996813, 'min_split_gain': 0.023577505367936433, 'num_leaves': 92, 'objective': 'multiclass', 'num_class': 4, 'metric': 'multi_logloss'}
 2024-10-04 12:41:26,828 - INFO - Entrenamiento del modelo completado.
 2024-10-04 13:45:06,401 - INFO - Modelo guardado en 'models/lightgbm_model_6.pkl'.
+2024-10-04 14:03:33,942 - INFO - Modelo guardado en 'models/lightgbm_model_6.pkl'.

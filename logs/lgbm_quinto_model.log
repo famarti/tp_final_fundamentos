@@ -1,0 +1,82 @@
+2024-10-03 20:49:34,107 - INFO - Cargando datos...
+2024-10-03 20:50:58,141 - INFO - SMOTE aplicado. Clases equilibradas en el conjunto de entrenamiento.
+2024-10-03 20:51:53,443 - INFO - Iniciando optimización bayesiana...
+2024-10-03 20:51:53,444 - INFO - Probando parámetros: num_leaves=83.37249931603071, feature_fraction=0.699136344768305, bagging_fraction=0.8451989215179523, max_depth=24.83687334988566,                    min_split_gain=0.08716690831317092, min_child_weight=15.508457833678731
+2024-10-03 21:05:35,822 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 21:05:35,838 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2595187101652123
+2024-10-03 21:05:35,838 - INFO - Probando parámetros: num_leaves=92.16423292127797, feature_fraction=0.8445059004982389, bagging_fraction=0.9089493179526446, max_depth=17.342466571366703,                    min_split_gain=0.023577505367936433, min_child_weight=11.728001864996813
+2024-10-03 21:20:01,325 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 21:20:01,325 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2602155199891347
+2024-10-03 21:20:01,325 - INFO - Probando parámetros: num_leaves=83.15983623366269, feature_fraction=0.5581634220127231, bagging_fraction=0.8347516142361378, max_depth=22.00736642021708,                    min_split_gain=0.02125686885906524, min_child_weight=12.41279951286882
+2024-10-03 21:32:58,321 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 21:32:58,321 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2594586081884478
+2024-10-03 21:32:58,321 - INFO - Probando parámetros: num_leaves=97.02163630077348, feature_fraction=0.46987132159083067, bagging_fraction=0.9854797594366361, max_depth=22.633574446350327,                    min_split_gain=0.06071949960192574, min_child_weight=18.796006267035985
+2024-10-03 21:36:52,736 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 21:36:52,736 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.25824112812929334
+2024-10-03 21:36:52,736 - INFO - Probando parámetros: num_leaves=92.13144363098101, feature_fraction=0.6706387883148099, bagging_fraction=0.8339134006800255, max_depth=20.954797925916807,                    min_split_gain=0.037110196483883466, min_child_weight=24.16280976157358
+2024-10-03 21:50:49,970 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 21:50:49,970 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2596157674974368
+2024-10-03 21:50:50,048 - INFO - Probando parámetros: num_leaves=90.15194744956341, feature_fraction=0.48460879244239796, bagging_fraction=0.8282804232564249, max_depth=17.35972138309505,                    min_split_gain=0.01928217750891166, min_child_weight=10.336124865418915
+2024-10-03 22:03:32,163 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:03:32,163 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.25923309949001444
+2024-10-03 22:03:32,195 - INFO - Probando parámetros: num_leaves=96.12280291543718, feature_fraction=0.6987961650497804, bagging_fraction=0.9167773982591336, max_depth=19.319700528059215,                    min_split_gain=0.02263191894941584, min_child_weight=23.61355629591816
+2024-10-03 22:17:34,984 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:17:34,984 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2599302114015084
+2024-10-03 22:17:35,015 - INFO - Probando parámetros: num_leaves=85.39470143883693, feature_fraction=0.5133645279682216, bagging_fraction=0.8529918698533281, max_depth=22.01824374690827,                    min_split_gain=0.0129470453686353, min_child_weight=13.526945127394027
+2024-10-03 22:21:51,848 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:21:51,848 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.25822868887534434
+2024-10-03 22:21:51,879 - INFO - Probando parámetros: num_leaves=90.0956731101248, feature_fraction=0.7128833123685564, bagging_fraction=0.9534525125485327, max_depth=19.133467502743343,                    min_split_gain=0.07621378679913275, min_child_weight=12.286154131169438
+2024-10-03 22:35:53,406 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:35:53,406 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2596704417007436
+2024-10-03 22:35:53,422 - INFO - Probando parámetros: num_leaves=94.55017009709522, feature_fraction=0.30439909986871316, bagging_fraction=0.9145220491793575, max_depth=19.222465024905937,                    min_split_gain=0.08911535611310616, min_child_weight=21.50647506506366
+2024-10-03 22:39:20,033 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:39:20,033 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.25850211826150593
+2024-10-03 22:39:20,064 - INFO - Probando parámetros: num_leaves=83.11397853971448, feature_fraction=0.43574948172235606, bagging_fraction=0.8012865160027828, max_depth=21.70831834735654,                    min_split_gain=0.0172818895879101, min_child_weight=18.21788870963178
+2024-10-03 22:43:17,751 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:43:17,751 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2583986600106478
+2024-10-03 22:43:17,783 - INFO - Probando parámetros: num_leaves=97.75794091029888, feature_fraction=0.10121868663327174, bagging_fraction=0.9286985790483163, max_depth=24.137098334872107,                    min_split_gain=0.006197740101568753, min_child_weight=21.678711627948804
+2024-10-03 22:47:13,526 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:47:13,526 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.25908892533932093
+2024-10-03 22:47:13,572 - INFO - Probando parámetros: num_leaves=91.20859271030545, feature_fraction=0.28233555440095504, bagging_fraction=0.8573761602135751, max_depth=19.46743954948185,                    min_split_gain=0.04557674255382641, min_child_weight=11.911695640195473
+2024-10-03 22:51:00,559 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:51:00,559 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.258751957464767
+2024-10-03 22:51:00,590 - INFO - Probando parámetros: num_leaves=87.56469674220625, feature_fraction=0.3952132959951856, bagging_fraction=0.923678768774687, max_depth=21.173466830442187,                    min_split_gain=0.06694134673677025, min_child_weight=24.18827860425432
+2024-10-03 22:54:35,481 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:54:35,481 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.25839054183346705
+2024-10-03 22:54:35,520 - INFO - Probando parámetros: num_leaves=87.40847242619495, feature_fraction=0.3479055887388589, bagging_fraction=0.8121244005700352, max_depth=21.35223739542113,                    min_split_gain=0.08874236422890444, min_child_weight=12.333687916262695
+2024-10-03 22:58:27,156 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 22:58:27,156 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2583494086798874
+2024-10-03 22:58:27,187 - INFO - Probando parámetros: num_leaves=99.04564701259265, feature_fraction=0.33413515666231863, bagging_fraction=0.8483074632861021, max_depth=21.05681275160417,                    min_split_gain=0.03819449761146403, min_child_weight=15.512781547610844
+2024-10-03 23:01:56,334 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 23:01:56,334 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.25822828814905435
+2024-10-03 23:01:56,381 - INFO - Probando parámetros: num_leaves=91.02700730366966, feature_fraction=0.682604085304484, bagging_fraction=0.8936145567193268, max_depth=18.19046757321854,                    min_split_gain=0.012611036981039783, min_child_weight=19.26878169887746
+2024-10-03 23:15:45,711 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 23:15:45,711 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2597963861819236
+2024-10-03 23:15:45,742 - INFO - Probando parámetros: num_leaves=96.69829334753945, feature_fraction=0.1923782351355519, bagging_fraction=0.852274654452124, max_depth=21.768992518011096,                    min_split_gain=0.06363130394640826, min_child_weight=15.497329972919513
+2024-10-03 23:19:41,695 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 23:19:41,695 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2584612453726175
+2024-10-03 23:19:41,742 - INFO - Probando parámetros: num_leaves=95.23488962292187, feature_fraction=0.6896897542276166, bagging_fraction=0.8717434851437206, max_depth=21.936882924625365,                    min_split_gain=0.004936462848528035, min_child_weight=20.2606718206378
+2024-10-03 23:33:36,061 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 23:33:36,061 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2598494660208684
+2024-10-03 23:33:36,103 - INFO - Probando parámetros: num_leaves=96.07086269508115, feature_fraction=0.6976260853009055, bagging_fraction=0.9454772658177621, max_depth=19.31520293369177,                    min_split_gain=0.04316531158712664, min_child_weight=23.626373839553
+2024-10-03 23:48:22,580 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-03 23:48:22,580 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.259808289767222
+2024-10-03 23:48:22,611 - INFO - Probando parámetros: num_leaves=92.39047058509875, feature_fraction=0.6851289932674933, bagging_fraction=0.8109674325963946, max_depth=17.63531476832471,                    min_split_gain=0.09754203115934859, min_child_weight=11.809652016634189
+2024-10-04 00:03:01,285 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-04 00:03:01,285 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.25981307293123923
+2024-10-04 00:03:01,332 - INFO - Probando parámetros: num_leaves=91.85433559099592, feature_fraction=0.4785819965000647, bagging_fraction=0.8868658092358749, max_depth=17.285736336998667,                    min_split_gain=0.06481422155723443, min_child_weight=11.505395666963825
+2024-10-04 00:06:56,049 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-04 00:06:56,049 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2580700290749408
+2024-10-04 00:06:56,108 - INFO - Probando parámetros: num_leaves=92.36903528632615, feature_fraction=0.9, bagging_fraction=0.9208680962734282, max_depth=17.385942788262998,                    min_split_gain=0.001, min_child_weight=11.87321321360612
+2024-10-04 00:22:32,494 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-04 00:22:32,494 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2602043851891155
+2024-10-04 00:22:32,537 - INFO - Probando parámetros: num_leaves=88.92981357546648, feature_fraction=0.812312116315478, bagging_fraction=0.8404079129920328, max_depth=21.23218670574321,                    min_split_gain=0.028625678749307184, min_child_weight=19.315332793712948
+2024-10-04 00:37:09,420 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-04 00:37:09,420 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2600448575543856
+2024-10-04 00:37:09,479 - INFO - Probando parámetros: num_leaves=92.22833919861722, feature_fraction=0.9, bagging_fraction=1.0, max_depth=17.638558425394383,                    min_split_gain=0.001, min_child_weight=11.684651195477743
+2024-10-04 00:52:24,359 - INFO - Resultados de cv: dict_keys(['valid custom_f1-mean', 'valid custom_f1-stdv'])
+2024-10-04 00:52:24,359 - INFO - Parámetros evaluados con F1 ponderado promedio: 0.2601578785275006
+2024-10-04 00:52:24,360 - INFO - Optimización bayesiana completada.
+2024-10-04 00:52:24,396 - INFO - Mejores parámetros encontrados: {'bagging_fraction': 0.9089493179526446, 'feature_fraction': 0.8445059004982389, 'max_depth': 17, 'min_child_weight': 11.728001864996813, 'min_split_gain': 0.023577505367936433, 'num_leaves': 92, 'objective': 'multiclass', 'num_class': 6, 'metric': 'multi_logloss'}
+2024-10-04 00:54:45,135 - INFO - Entrenamiento del modelo completado.
+2024-10-04 00:54:46,247 - INFO - Modelo guardado en 'models/lightgbm_model_5.pkl'.
